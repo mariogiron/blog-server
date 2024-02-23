@@ -1,82 +1,84 @@
-[
-    {
-        "id": 1,
-        "title": "Introducci\u00f3n a Python",
-        "text": "Python se ha convertido en uno de los lenguajes de programaci\u00f3n m\u00e1s populares. En este post, exploramos sus fundamentos y c\u00f3mo empezar.",
-        "author": "Juan P\u00e9rez",
-        "publishDate": "2024-02-01",
-        "status": "published"
-    },
-    {
-        "id": 2,
-        "title": "\u00bfQu\u00e9 es la Programaci\u00f3n Orientada a Objetos?",
-        "text": "La Programaci\u00f3n Orientada a Objetos (POO) es un paradigma de programaci\u00f3n que utiliza objetos y clases en su enfoque. Aprende m\u00e1s sobre ello aqu\u00ed.",
-        "author": "Ana G\u00f3mez",
-        "publishDate": "2024-02-05",
-        "status": "published"
-    },
-    {
-        "id": 3,
-        "title": "Primeros pasos en JavaScript",
-        "text": "JavaScript es esencial para el desarrollo web. Este post te guiar\u00e1 a trav\u00e9s de los conceptos b\u00e1sicos para comenzar a programar con JavaScript.",
-        "author": "Carlos L\u00f3pez",
-        "publishDate": "2024-02-10",
-        "status": "published"
-    },
-    {
-        "id": 4,
-        "title": "Frameworks de Python: Django vs Flask",
-        "text": "Django y Flask son dos de los frameworks de Python m\u00e1s populares. En este post, comparamos sus diferencias y similitudes para ayudarte a elegir el adecuado.",
-        "author": "Luc\u00eda Mart\u00ednez",
-        "publishDate": "2024-02-15",
-        "status": "published"
-    },
-    {
-        "id": 5,
-        "title": "Creando tu primera aplicaci\u00f3n en React",
-        "text": "React es una biblioteca de JavaScript para construir interfaces de usuario. Aprende a crear tu primera aplicaci\u00f3n en React con este tutorial paso a paso.",
-        "author": "Miguel \u00c1ngel Torres",
-        "publishDate": "2024-02-20",
-        "status": "published"
-    },
-    {
-        "id": 6,
-        "title": "Introducci\u00f3n a las bases de datos SQL",
-        "text": "Las bases de datos SQL son fundamentales para el desarrollo de software. Este post introduce los conceptos b\u00e1sicos de SQL y c\u00f3mo empezar a usarlo.",
-        "author": "Sof\u00eda Navarro",
-        "publishDate": "2024-02-25",
-        "status": "published"
-    },
-    {
-        "id": 7,
-        "title": "Mejores pr\u00e1cticas en el desarrollo de software",
-        "text": "Adoptar las mejores pr\u00e1cticas es crucial para el \u00e9xito del desarrollo de software. Este post cubre algunas de las m\u00e1s importantes.",
-        "author": "Diego Fern\u00e1ndez",
-        "publishDate": "2024-03-02",
-        "status": "published"
-    },
-    {
-        "id": 8,
-        "title": "La importancia de Git en el control de versiones",
-        "text": "Git es una herramienta esencial para el control de versiones en el desarrollo de software. Aprende por qu\u00e9 es tan importante y c\u00f3mo empezar a usarlo.",
-        "author": "Laura Jim\u00e9nez",
-        "publishDate": "2024-03-05",
-        "status": "published"
-    },
-    {
-        "id": 9,
-        "title": "Desarrollo de aplicaciones m\u00f3viles: iOS vs Android",
-        "text": "El desarrollo de aplicaciones m\u00f3viles puede enfocarse en iOS o Android. Este post examina las diferencias entre ambos y c\u00f3mo elegir la mejor opci\u00f3n.",
-        "author": "Roberto Garc\u00eda",
-        "publishDate": "2024-03-10",
-        "status": "published"
-    },
-    {
-        "id": 10,
-        "title": "Seguridad inform\u00e1tica para programadores",
-        "text": "La seguridad inform\u00e1tica es crucial en el desarrollo de software. Este post ofrece una introducci\u00f3n a las pr\u00e1cticas de seguridad esenciales para programadores.",
-        "author": "Elena S\u00e1nchez",
-        "publishDate": "2024-03-15",
-        "status": "published"
-    }
-]
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "Introducci\u00f3n a Python",
+            "text": "Python se ha convertido en uno de los lenguajes de programaci\u00f3n m\u00e1s populares. En este post, exploramos sus fundamentos y c\u00f3mo empezar.",
+            "author": "Juan P\u00e9rez",
+            "publishDate": "2024-02-01",
+            "status": "published"
+        },
+        {
+            "id": 2,
+            "title": "\u00bfQu\u00e9 es la Programaci\u00f3n Orientada a Objetos?",
+            "text": "La Programaci\u00f3n Orientada a Objetos (POO) es un paradigma de programaci\u00f3n que utiliza objetos y clases en su enfoque. Aprende m\u00e1s sobre ello aqu\u00ed.",
+            "author": "Ana G\u00f3mez",
+            "publishDate": "2024-02-05",
+            "status": "published"
+        },
+        {
+            "id": 3,
+            "title": "Primeros pasos en JavaScript",
+            "text": "JavaScript es esencial para el desarrollo web. Este post te guiar\u00e1 a trav\u00e9s de los conceptos b\u00e1sicos para comenzar a programar con JavaScript.",
+            "author": "Carlos L\u00f3pez",
+            "publishDate": "2024-02-10",
+            "status": "published"
+        },
+        {
+            "id": 4,
+            "title": "Frameworks de Python: Django vs Flask",
+            "text": "Django y Flask son dos de los frameworks de Python m\u00e1s populares. En este post, comparamos sus diferencias y similitudes para ayudarte a elegir el adecuado.",
+            "author": "Luc\u00eda Mart\u00ednez",
+            "publishDate": "2024-02-15",
+            "status": "published"
+        },
+        {
+            "id": 5,
+            "title": "Creando tu primera aplicaci\u00f3n en React",
+            "text": "React es una biblioteca de JavaScript para construir interfaces de usuario. Aprende a crear tu primera aplicaci\u00f3n en React con este tutorial paso a paso.",
+            "author": "Miguel \u00c1ngel Torres",
+            "publishDate": "2024-02-20",
+            "status": "published"
+        },
+        {
+            "id": 6,
+            "title": "Introducci\u00f3n a las bases de datos SQL",
+            "text": "Las bases de datos SQL son fundamentales para el desarrollo de software. Este post introduce los conceptos b\u00e1sicos de SQL y c\u00f3mo empezar a usarlo.",
+            "author": "Sof\u00eda Navarro",
+            "publishDate": "2024-02-25",
+            "status": "published"
+        },
+        {
+            "id": 7,
+            "title": "Mejores pr\u00e1cticas en el desarrollo de software",
+            "text": "Adoptar las mejores pr\u00e1cticas es crucial para el \u00e9xito del desarrollo de software. Este post cubre algunas de las m\u00e1s importantes.",
+            "author": "Diego Fern\u00e1ndez",
+            "publishDate": "2024-03-02",
+            "status": "published"
+        },
+        {
+            "id": 8,
+            "title": "La importancia de Git en el control de versiones",
+            "text": "Git es una herramienta esencial para el control de versiones en el desarrollo de software. Aprende por qu\u00e9 es tan importante y c\u00f3mo empezar a usarlo.",
+            "author": "Laura Jim\u00e9nez",
+            "publishDate": "2024-03-05",
+            "status": "published"
+        },
+        {
+            "id": 9,
+            "title": "Desarrollo de aplicaciones m\u00f3viles: iOS vs Android",
+            "text": "El desarrollo de aplicaciones m\u00f3viles puede enfocarse en iOS o Android. Este post examina las diferencias entre ambos y c\u00f3mo elegir la mejor opci\u00f3n.",
+            "author": "Roberto Garc\u00eda",
+            "publishDate": "2024-03-10",
+            "status": "published"
+        },
+        {
+            "id": 10,
+            "title": "Seguridad inform\u00e1tica para programadores",
+            "text": "La seguridad inform\u00e1tica es crucial en el desarrollo de software. Este post ofrece una introducci\u00f3n a las pr\u00e1cticas de seguridad esenciales para programadores.",
+            "author": "Elena S\u00e1nchez",
+            "publishDate": "2024-03-15",
+            "status": "published"
+        }
+    ]
+}
